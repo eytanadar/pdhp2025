@@ -54,5 +54,8 @@
 * Hypothethical Outcome Plots, https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740
 * Claus Wilke, https://posit.co/resources/videos/visualizing-uncertainty-with-hypothetical-outcomes-plots/
 
+## Activity
+* https://www.storytellingwithdata.com/blog/2020/12/1/swdchallenge-critique-then-recreate
+
 
 
