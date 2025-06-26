@@ -38,19 +38,21 @@
 ## Unconventional Tools
 * https://browser.timeviz.net/
 * Connected Scatterplots, http://steveharoz.com/research/connected_scatterplot/
-* Tornado plots, https://www.bewitched.com/demo/tornado/tornado.html
 * Tornado plot explorer, http://www.bewitched.com/demo/tornado/tornado.html
 * Movie Box Office Receipts, http://www.nytimes.com/interactive/2008/02/23/movies/20080223_REVENUE_GRAPHIC.html
 * Parallel coordinates, https://bl.ocks.org/jasondavies/1341281
 * XMDV: http://davis.wpi.edu/xmdv/
 * Parvis: http://www.mediavirus.org/parvis/
-* Parallel Sets: http://code.google.com/p/parsets/
+* Parallel Sets: https://code.google.com/archive/p/parsets/
 * Dust and Magnets, http://www.cc.gatech.edu/gvu/ii/dnm/
 * Lineup, https://jku-vds-lab.at/tools/lineup/
 * UpSet, https://upset.app/
 * Skitter, http://www.caida.org/research/topology/as_core_network/
 * NodeTrix, http://www.aviz.fr/Research/Nodetrix
-* Hiveplots, http://hiveplot.net
+* Hiveplots, https://hiveplot.com/
+* Uncertainty, https://clauswilke.com/dataviz/visualizing-uncertainty.html
+* Hypothethical Outcome Plots, https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740
+* Claus Wilke, https://posit.co/resources/videos/visualizing-uncertainty-with-hypothetical-outcomes-plots/
 
 
 
